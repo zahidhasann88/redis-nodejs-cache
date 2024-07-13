@@ -1,0 +1,23 @@
+{"level":"info","message":"Redis Client Connected","timestamp":"2024-07-13T18:04:45.928Z"}
+{"key":"mykey","level":"info","message":"String operation:","timestamp":"2024-07-13T18:04:45.937Z","value":"Hello from Redis"}
+{"key":"user:1","level":"info","message":"Hash operation:","timestamp":"2024-07-13T18:04:45.940Z","value":{"age":"30","email":"john@example.com","name":"John Doe"}}
+{"key":"mylist","level":"info","message":"List operation:","timestamp":"2024-07-13T18:04:45.943Z","value":["item3","item2","item1"]}
+{"key":"myset","level":"info","message":"Set operation:","timestamp":"2024-07-13T18:04:45.945Z","value":["member2","member1","member3"]}
+{"key":"leaderboard","level":"info","message":"Sorted Set operation:","timestamp":"2024-07-13T18:04:45.949Z","value":["player1","player3","player2"]}
+{"level":"info","message":"Expiration set on session_key for 60 seconds","timestamp":"2024-07-13T18:04:45.951Z"}
+{"level":"info","message":"Redis Client Connected","timestamp":"2024-07-13T18:11:19.941Z"}
+{"key":"mykey","level":"info","message":"String operation:","timestamp":"2024-07-13T18:11:19.949Z","value":"Hello from Redis"}
+{"key":"user:1","level":"info","message":"Hash operation:","timestamp":"2024-07-13T18:11:19.952Z","value":{"age":"30","email":"john@example.com","name":"John Doe"}}
+{"key":"mylist","level":"info","message":"List operation:","timestamp":"2024-07-13T18:11:19.954Z","value":["item3","item2","item1","item3","item2","item1"]}
+{"key":"myset","level":"info","message":"Set operation:","timestamp":"2024-07-13T18:11:19.956Z","value":["member2","member1","member3"]}
+{"key":"leaderboard","level":"info","message":"Sorted Set operation:","timestamp":"2024-07-13T18:11:19.959Z","value":["player1","player3","player2"]}
+{"level":"info","message":"Expiration set on session_key for 60 seconds","timestamp":"2024-07-13T18:11:19.961Z"}
+{"level":"info","message":"Received message:","timestamp":"2024-07-13T18:11:19.965Z"}
+{"level":"info","message":"Redis Client Connected","timestamp":"2024-07-13T18:13:40.531Z"}
+{"key":"mykey","level":"info","message":"String operation:","timestamp":"2024-07-13T18:13:40.539Z","value":"Hello from Redis"}
+{"key":"user:1","level":"info","message":"Hash operation:","timestamp":"2024-07-13T18:13:40.541Z","value":{"age":"30","email":"john@example.com","name":"John Doe"}}
+{"key":"mylist","level":"info","message":"List operation:","timestamp":"2024-07-13T18:13:40.543Z","value":["item3","item2","item1","item3","item2","item1","item3","item2","item1"]}
+{"key":"myset","level":"info","message":"Set operation:","timestamp":"2024-07-13T18:13:40.544Z","value":["member2","member1","member3"]}
+{"key":"leaderboard","level":"info","message":"Sorted Set operation:","timestamp":"2024-07-13T18:13:40.546Z","value":["player1","player3","player2"]}
+{"level":"info","message":"Expiration set on session_key for 60 seconds","timestamp":"2024-07-13T18:13:40.547Z"}
+{"level":"info","message":"Received message:","timestamp":"2024-07-13T18:13:40.551Z"}
